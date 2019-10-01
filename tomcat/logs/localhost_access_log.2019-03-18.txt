@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:22:24:31 +0800] "GET /examples HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:22:24:31 +0800] "GET /examples/ HTTP/1.1" 200 1126
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:22:24:31 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:22:24:33 +0800] "GET /examples/servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:22:24:33 +0800] "GET /examples/servlets/ HTTP/1.1" 200 6596
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:22:24:33 +0800] "GET /examples/servlets/images/execute.gif HTTP/1.1" 200 1242
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:22:24:33 +0800] "GET /examples/servlets/images/code.gif HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:22:24:33 +0800] "GET /examples/servlets/images/return.gif HTTP/1.1" 200 1231
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:23:06:27 +0800] "GET /ebookshop/querybook.html HTTP/1.1" 200 476
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:23:06:51 +0800] "GET /ebookshop/query?author=Tan+Ah+Teck&author=Mohammad+Ali HTTP/1.1" 404 1093
+0:0:0:0:0:0:0:1 - - [18/Mar/2019:23:07:05 +0800] "GET /ebookshop/query?author=Tan+Ah+Teck&author=Mohammad+Ali HTTP/1.1" 404 1093

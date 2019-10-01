@@ -1,0 +1,265 @@
+04-Mar-2019 16:15:42.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.16
+04-Mar-2019 16:15:42.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 4 2019 16:30:29 UTC
+04-Mar-2019 16:15:42.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.16.0
+04-Mar-2019 16:15:42.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Mar-2019 16:15:42.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.3
+04-Mar-2019 16:15:42.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Mar-2019 16:15:42.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home
+04-Mar-2019 16:15:42.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.2+9-LTS
+04-Mar-2019 16:15:42.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Mar-2019 16:15:42.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/theophiluskwek/Documents/myWebProject/tomcat
+04-Mar-2019 16:15:42.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/theophiluskwek/Documents/myWebProject/tomcat
+04-Mar-2019 16:15:42.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Mar-2019 16:15:42.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Mar-2019 16:15:42.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Mar-2019 16:15:42.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/theophiluskwek/documents/myWebProject/tomcat/conf/logging.properties
+04-Mar-2019 16:15:42.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Mar-2019 16:15:42.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Mar-2019 16:15:42.183 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Mar-2019 16:15:42.183 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Mar-2019 16:15:42.183 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Mar-2019 16:15:42.183 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/theophiluskwek/documents/myWebProject/tomcat
+04-Mar-2019 16:15:42.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/theophiluskwek/documents/myWebProject/tomcat
+04-Mar-2019 16:15:42.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/theophiluskwek/documents/myWebProject/tomcat/temp
+04-Mar-2019 16:15:42.185 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/theophiluskwek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Mar-2019 16:15:42.229 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 16:15:42.268 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 16:15:42.270 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [630] milliseconds
+04-Mar-2019 16:15:42.327 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Mar-2019 16:15:42.327 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.16]
+04-Mar-2019 16:15:42.335 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/docs]
+04-Mar-2019 16:15:42.663 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/docs] has finished in [328] ms
+04-Mar-2019 16:15:42.663 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/manager]
+04-Mar-2019 16:15:42.705 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/manager] has finished in [41] ms
+04-Mar-2019 16:15:42.705 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/examples]
+04-Mar-2019 16:15:42.948 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/examples] has finished in [243] ms
+04-Mar-2019 16:15:42.949 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/ROOT]
+04-Mar-2019 16:15:42.968 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/ROOT] has finished in [19] ms
+04-Mar-2019 16:15:42.969 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/host-manager]
+04-Mar-2019 16:15:42.996 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/host-manager] has finished in [27] ms
+04-Mar-2019 16:15:43.001 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 16:15:43.011 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 16:15:43.026 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [755] milliseconds
+04-Mar-2019 17:42:28.315 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 17:42:28.323 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 17:42:28.331 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Mar-2019 17:42:28.403 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 17:42:28.407 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 17:42:28.419 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 17:42:28.421 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 18:10:39.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.16
+04-Mar-2019 18:10:39.585 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 4 2019 16:30:29 UTC
+04-Mar-2019 18:10:39.585 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.16.0
+04-Mar-2019 18:10:39.585 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Mar-2019 18:10:39.585 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.3
+04-Mar-2019 18:10:39.585 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Mar-2019 18:10:39.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home
+04-Mar-2019 18:10:39.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.2+9-LTS
+04-Mar-2019 18:10:39.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Mar-2019 18:10:39.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/theophiluskwek/Documents/myWebProject/tomcat
+04-Mar-2019 18:10:39.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/theophiluskwek/Documents/myWebProject/tomcat
+04-Mar-2019 18:10:39.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Mar-2019 18:10:39.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Mar-2019 18:10:39.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Mar-2019 18:10:39.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/theophiluskwek/documents/myWebProject/tomcat/conf/logging.properties
+04-Mar-2019 18:10:39.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Mar-2019 18:10:39.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Mar-2019 18:10:39.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Mar-2019 18:10:39.595 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Mar-2019 18:10:39.595 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Mar-2019 18:10:39.596 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/theophiluskwek/documents/myWebProject/tomcat
+04-Mar-2019 18:10:39.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/theophiluskwek/documents/myWebProject/tomcat
+04-Mar-2019 18:10:39.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/theophiluskwek/documents/myWebProject/tomcat/temp
+04-Mar-2019 18:10:39.598 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/theophiluskwek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Mar-2019 18:10:39.669 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 18:10:39.712 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 18:10:39.719 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [633] milliseconds
+04-Mar-2019 18:10:39.816 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Mar-2019 18:10:39.816 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.16]
+04-Mar-2019 18:10:39.825 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/docs]
+04-Mar-2019 18:10:40.211 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/docs] has finished in [386] ms
+04-Mar-2019 18:10:40.212 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/manager]
+04-Mar-2019 18:10:40.265 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/manager] has finished in [53] ms
+04-Mar-2019 18:10:40.266 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/examples]
+04-Mar-2019 18:10:40.581 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/examples] has finished in [315] ms
+04-Mar-2019 18:10:40.581 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/ROOT]
+04-Mar-2019 18:10:40.600 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/ROOT] has finished in [19] ms
+04-Mar-2019 18:10:40.600 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/hello]
+04-Mar-2019 18:10:40.633 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/hello] has finished in [33] ms
+04-Mar-2019 18:10:40.633 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/host-manager]
+04-Mar-2019 18:10:40.663 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/host-manager] has finished in [30] ms
+04-Mar-2019 18:10:40.668 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 18:10:40.680 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 18:10:40.688 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [966] milliseconds
+04-Mar-2019 18:46:41.574 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 18:46:41.594 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 18:46:41.602 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Mar-2019 18:46:41.737 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 18:46:41.742 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 18:46:41.745 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 18:46:41.747 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 19:01:54.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.16
+04-Mar-2019 19:01:54.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 4 2019 16:30:29 UTC
+04-Mar-2019 19:01:54.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.16.0
+04-Mar-2019 19:01:54.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Mar-2019 19:01:54.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.3
+04-Mar-2019 19:01:54.415 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Mar-2019 19:01:54.415 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home
+04-Mar-2019 19:01:54.415 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.2+9-LTS
+04-Mar-2019 19:01:54.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Mar-2019 19:01:54.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/theophiluskwek/Documents/myWebProject/tomcat
+04-Mar-2019 19:01:54.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/theophiluskwek/Documents/myWebProject/tomcat
+04-Mar-2019 19:01:54.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Mar-2019 19:01:54.420 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Mar-2019 19:01:54.421 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Mar-2019 19:01:54.421 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/theophiluskwek/documents/myWebProject/tomcat/conf/logging.properties
+04-Mar-2019 19:01:54.421 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Mar-2019 19:01:54.421 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Mar-2019 19:01:54.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Mar-2019 19:01:54.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Mar-2019 19:01:54.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Mar-2019 19:01:54.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/theophiluskwek/documents/myWebProject/tomcat
+04-Mar-2019 19:01:54.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/theophiluskwek/documents/myWebProject/tomcat
+04-Mar-2019 19:01:54.424 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/theophiluskwek/documents/myWebProject/tomcat/temp
+04-Mar-2019 19:01:54.424 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/theophiluskwek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Mar-2019 19:01:54.466 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 19:01:54.500 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 19:01:54.503 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [576] milliseconds
+04-Mar-2019 19:01:54.572 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Mar-2019 19:01:54.572 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.16]
+04-Mar-2019 19:01:54.580 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/docs]
+04-Mar-2019 19:01:55.187 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/docs] has finished in [607] ms
+04-Mar-2019 19:01:55.188 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/manager]
+04-Mar-2019 19:01:55.228 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/manager] has finished in [39] ms
+04-Mar-2019 19:01:55.229 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/examples]
+04-Mar-2019 19:01:55.530 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/examples] has finished in [301] ms
+04-Mar-2019 19:01:55.530 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/ROOT]
+04-Mar-2019 19:01:55.551 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/ROOT] has finished in [21] ms
+04-Mar-2019 19:01:55.552 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/hello]
+04-Mar-2019 19:01:55.601 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/hello] has finished in [49] ms
+04-Mar-2019 19:01:55.602 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/host-manager]
+04-Mar-2019 19:01:55.635 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/host-manager] has finished in [33] ms
+04-Mar-2019 19:01:55.642 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 19:01:55.653 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 19:01:55.685 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1,180] milliseconds
+04-Mar-2019 20:02:47.966 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 20:02:48.007 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 20:02:48.014 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Mar-2019 20:02:48.151 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 20:02:48.156 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 20:02:48.161 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 20:02:48.164 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 20:08:48.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.16
+04-Mar-2019 20:08:48.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 4 2019 16:30:29 UTC
+04-Mar-2019 20:08:48.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.16.0
+04-Mar-2019 20:08:48.346 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Mar-2019 20:08:48.346 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.3
+04-Mar-2019 20:08:48.347 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Mar-2019 20:08:48.347 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home
+04-Mar-2019 20:08:48.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.2+9-LTS
+04-Mar-2019 20:08:48.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Mar-2019 20:08:48.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/theophiluskwek/Documents/myWebProject/tomcat
+04-Mar-2019 20:08:48.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/theophiluskwek/Documents/myWebProject/tomcat
+04-Mar-2019 20:08:48.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Mar-2019 20:08:48.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Mar-2019 20:08:48.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Mar-2019 20:08:48.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/theophiluskwek/documents/myWebProject/tomcat/conf/logging.properties
+04-Mar-2019 20:08:48.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Mar-2019 20:08:48.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Mar-2019 20:08:48.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Mar-2019 20:08:48.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Mar-2019 20:08:48.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Mar-2019 20:08:48.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/theophiluskwek/documents/myWebProject/tomcat
+04-Mar-2019 20:08:48.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/theophiluskwek/documents/myWebProject/tomcat
+04-Mar-2019 20:08:48.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/theophiluskwek/documents/myWebProject/tomcat/temp
+04-Mar-2019 20:08:48.353 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/theophiluskwek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Mar-2019 20:08:48.418 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 20:08:48.451 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 20:08:48.456 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [635] milliseconds
+04-Mar-2019 20:08:48.530 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Mar-2019 20:08:48.531 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.16]
+04-Mar-2019 20:08:48.545 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/docs]
+04-Mar-2019 20:08:49.185 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:08:49.225 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/docs] has finished in [680] ms
+04-Mar-2019 20:08:49.226 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/manager]
+04-Mar-2019 20:08:49.478 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:08:49.483 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/manager] has finished in [257] ms
+04-Mar-2019 20:08:49.483 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/examples]
+04-Mar-2019 20:08:49.877 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:08:49.895 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/examples] has finished in [412] ms
+04-Mar-2019 20:08:49.895 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/ROOT]
+04-Mar-2019 20:08:50.074 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:08:50.076 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/ROOT] has finished in [181] ms
+04-Mar-2019 20:08:50.077 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/hello]
+04-Mar-2019 20:08:50.253 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:08:50.260 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/hello] has finished in [183] ms
+04-Mar-2019 20:08:50.261 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/host-manager]
+04-Mar-2019 20:08:50.446 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:08:50.449 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/host-manager] has finished in [188] ms
+04-Mar-2019 20:08:50.453 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 20:08:50.462 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 20:08:50.466 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2,009] milliseconds
+04-Mar-2019 20:18:36.725 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 20:18:36.732 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 20:18:36.739 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Mar-2019 20:18:36.791 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 20:18:36.795 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 20:18:36.803 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 20:18:36.806 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 20:23:57.347 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.16
+04-Mar-2019 20:23:57.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 4 2019 16:30:29 UTC
+04-Mar-2019 20:23:57.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.16.0
+04-Mar-2019 20:23:57.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Mar-2019 20:23:57.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.3
+04-Mar-2019 20:23:57.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Mar-2019 20:23:57.354 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home
+04-Mar-2019 20:23:57.354 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.2+9-LTS
+04-Mar-2019 20:23:57.354 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Mar-2019 20:23:57.354 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/theophiluskwek/Documents/myWebProject/tomcat
+04-Mar-2019 20:23:57.354 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/theophiluskwek/Documents/myWebProject/tomcat
+04-Mar-2019 20:23:57.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Mar-2019 20:23:57.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Mar-2019 20:23:57.357 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Mar-2019 20:23:57.357 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/theophiluskwek/documents/myWebProject/tomcat/conf/logging.properties
+04-Mar-2019 20:23:57.358 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Mar-2019 20:23:57.358 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Mar-2019 20:23:57.358 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Mar-2019 20:23:57.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Mar-2019 20:23:57.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Mar-2019 20:23:57.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/theophiluskwek/documents/myWebProject/tomcat
+04-Mar-2019 20:23:57.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/theophiluskwek/documents/myWebProject/tomcat
+04-Mar-2019 20:23:57.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/theophiluskwek/documents/myWebProject/tomcat/temp
+04-Mar-2019 20:23:57.361 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/theophiluskwek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Mar-2019 20:23:57.414 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 20:23:57.462 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 20:23:57.467 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [623] milliseconds
+04-Mar-2019 20:23:57.535 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Mar-2019 20:23:57.537 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.16]
+04-Mar-2019 20:23:57.549 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/docs]
+04-Mar-2019 20:23:58.324 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:23:58.414 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/docs] has finished in [865] ms
+04-Mar-2019 20:23:58.415 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/manager]
+04-Mar-2019 20:23:58.731 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:23:58.737 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/manager] has finished in [321] ms
+04-Mar-2019 20:23:58.737 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/examples]
+04-Mar-2019 20:23:59.129 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:23:59.148 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/examples] has finished in [411] ms
+04-Mar-2019 20:23:59.149 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/ROOT]
+04-Mar-2019 20:23:59.331 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:23:59.333 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/ROOT] has finished in [184] ms
+04-Mar-2019 20:23:59.334 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/hello]
+04-Mar-2019 20:23:59.524 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:23:59.531 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/hello] has finished in [198] ms
+04-Mar-2019 20:23:59.532 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/host-manager]
+04-Mar-2019 20:23:59.730 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2019 20:23:59.732 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/theophiluskwek/Documents/myWebProject/tomcat/webapps/host-manager] has finished in [200] ms
+04-Mar-2019 20:23:59.738 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 20:23:59.745 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 20:23:59.749 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2,281] milliseconds
+04-Mar-2019 22:31:25.955 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 22:31:25.976 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 22:31:26.000 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Mar-2019 22:31:26.130 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 22:31:26.141 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+04-Mar-2019 22:31:26.147 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+04-Mar-2019 22:31:26.150 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

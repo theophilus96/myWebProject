@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:08:51:37 +0800] "GET /hello/querybook.html HTTP/1.1" 200 455
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:08:58:57 +0800] "GET /hello/query?author=Tan+Ah+Teck HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:08:59:01 +0800] "GET /hello/query?author=Tan+Ah+Teck&author=Mohammad+Ali HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:08:59:09 +0800] "GET /hello/query?author=Tan+Ah+Teck HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:08:59:13 +0800] "GET /hello/query? HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:08:59:21 +0800] "GET /hello/query? HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:08:59:21 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:09:01:01 +0800] "GET /hello/query? HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:09:01:01 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:09:01:01 +0800] "GET /hello/query? HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:09:01:01 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:09:01:01 +0800] "GET /hello/query? HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:09:01:01 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:09:03:57 +0800] "GET /hello/query?author=Tan+Ah+Teck HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2019:09:04:07 +0800] "GET /hello/query?author=Tan+Ah+Teck HTTP/1.1" 200 -
